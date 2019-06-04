@@ -1,2 +1,6 @@
 target/
+out/
 .svn/
+*.orig
+.idea/
+*.iml
